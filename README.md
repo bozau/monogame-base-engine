@@ -1,4 +1,2 @@
 # monogame-base-engine
-# monogame-base-engine
-# monogame-base-engine
-# monogame-base-engine
+Basic framework for future games
