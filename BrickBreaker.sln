@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrickBreaker", "BrickBreaker\BrickBreaker.csproj", "{74991B40-184D-4B6A-BE15-DB4C03923C4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoGameLibrary", "MonoGameLibrary\MonoGameLibrary.csproj", "{683FA8A0-8E7E-4DB8-8962-9AD03200C1BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74991B40-184D-4B6A-BE15-DB4C03923C4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74991B40-184D-4B6A-BE15-DB4C03923C4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74991B40-184D-4B6A-BE15-DB4C03923C4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74991B40-184D-4B6A-BE15-DB4C03923C4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{683FA8A0-8E7E-4DB8-8962-9AD03200C1BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{683FA8A0-8E7E-4DB8-8962-9AD03200C1BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{683FA8A0-8E7E-4DB8-8962-9AD03200C1BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{683FA8A0-8E7E-4DB8-8962-9AD03200C1BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

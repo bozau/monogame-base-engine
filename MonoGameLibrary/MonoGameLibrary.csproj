@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+    </PropertyGroup>
+    <ItemGroup>
+        <PackageReference Include="MonoGame.Framework.DesktopGL" Version="3.8.4">
+            <PrivateAssets>All</PrivateAssets>
+        </PackageReference>
+    </ItemGroup>
+    <ItemGroup>
+        <Reference Include="GumCommon">
+            <HintPath>..\..\..\..\..\home\bozza\.nuget\packages\flatredball.gumcommon\2025.8.4.1\lib\net6.0\GumCommon.dll</HintPath>
+        </Reference>
+        <Reference Include="MonoGameGum">
+            <HintPath>..\..\..\..\..\home\bozza\.nuget\packages\gum.monogame\2025.8.4.1\lib\net6.0\MonoGameGum.dll</HintPath>
+        </Reference>
+    </ItemGroup>
+</Project>

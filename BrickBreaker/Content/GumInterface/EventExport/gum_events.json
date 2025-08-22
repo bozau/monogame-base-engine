@@ -1,0 +1,272 @@
+{
+  "UserEvents": {
+    "aee839c103eed184d35f1d6e0efb9cd31a13232558b2584fcdf730de41606152": [
+      {
+        "NewName": "MainMenu",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 0,
+        "TimestampUtc": "2025-08-09T05:08:17.338883Z"
+      },
+      {
+        "NewName": "SplashScreen",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 0,
+        "TimestampUtc": "2025-08-09T05:08:24.7928478Z"
+      },
+      {
+        "NewName": "SplashScreen.ContainerInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2025-08-09T05:09:05.018658Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "SplashScreen.Container ContainerInstance in SplashScreen",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2025-08-09T05:09:43.1074783Z"
+      },
+      {
+        "NewName": "SplashScreen.ContainerInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2025-08-09T05:09:53.3564299Z"
+      },
+      {
+        "NewName": "SplashScreen.ButtonStandardInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2025-08-09T05:10:21.6592963Z"
+      },
+      {
+        "NewName": "MainMenu.ContainerInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2025-08-09T05:10:45.4391841Z"
+      },
+      {
+        "NewName": "MainMenu.ButtonStandardInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2025-08-09T05:10:45.470184Z"
+      },
+      {
+        "NewName": "MainMenu.ChangeToSplashButton",
+        "OldName": "MainMenu.ButtonStandardInstance",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2025-08-09T05:37:10.8236685Z"
+      },
+      {
+        "NewName": "MainMenu.SwitchToSplashScreenButton",
+        "OldName": "MainMenu.ChangeToSplashButton",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2025-08-09T05:53:41.9433066Z"
+      },
+      {
+        "NewName": "Options/OptionsMenu",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 0,
+        "TimestampUtc": "2025-08-21T04:20:37.2477365Z"
+      },
+      {
+        "NewName": "Options/OptionsMenu (Container).ButtonStandardInstance",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 5,
+        "TimestampUtc": "2025-08-21T04:20:53.1506578Z"
+      },
+      {
+        "NewName": "MainMenu.OptionsMenuInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2025-08-21T04:21:09.1855783Z"
+      },
+      {
+        "NewName": "MainMenu.ButtonStandardInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2025-08-21T04:22:32.0061673Z"
+      },
+      {
+        "NewName": "MainMenu.OpenOptionsMenuButton",
+        "OldName": "MainMenu.ButtonStandardInstance",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2025-08-21T04:23:03.9960081Z"
+      },
+      {
+        "NewName": "Options/OptionsMenu (Container).CloseOptionsMenuButton",
+        "OldName": "Options/OptionsMenu (Container).ButtonStandardInstance",
+        "ElementType": "Components",
+        "EventType": 7,
+        "TimestampUtc": "2025-08-21T04:26:21.7090212Z"
+      },
+      {
+        "NewName": "Options/OptionsMenu (Container).SliderInstance",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 5,
+        "TimestampUtc": "2025-08-21T12:15:43.4630332Z"
+      },
+      {
+        "NewName": "Options/OptionsMenu (Container).MasterVolumeSlider",
+        "OldName": "Options/OptionsMenu (Container).SliderInstance",
+        "ElementType": "Components",
+        "EventType": 7,
+        "TimestampUtc": "2025-08-21T12:16:07.189918Z"
+      },
+      {
+        "NewName": "Options/OptionsMenu (Container).LabelInstance",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 5,
+        "TimestampUtc": "2025-08-21T23:06:43.6103535Z"
+      },
+      {
+        "NewName": "Options/OptionsMenu (Container).ContainerInstance",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 5,
+        "TimestampUtc": "2025-08-21T23:06:47.1053307Z"
+      },
+      {
+        "NewName": "Options/OptionsMenu (Container).MasterVolumeSliderLabel",
+        "OldName": "Options/OptionsMenu (Container).LabelInstance",
+        "ElementType": "Components",
+        "EventType": 7,
+        "TimestampUtc": "2025-08-21T23:08:20.1067215Z"
+      },
+      {
+        "NewName": "Options/OptionsMenu (Container).MasterVolumeContainer",
+        "OldName": "Options/OptionsMenu (Container).ContainerInstance",
+        "ElementType": "Components",
+        "EventType": 7,
+        "TimestampUtc": "2025-08-21T23:08:54.2544974Z"
+      },
+      {
+        "NewName": "Options/OptionsMenu (Container).MasterVolumeSlider1",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 5,
+        "TimestampUtc": "2025-08-21T23:08:57.5784756Z"
+      },
+      {
+        "NewName": "Options/OptionsMenu (Container).MasterVolumeSliderLabel1",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 5,
+        "TimestampUtc": "2025-08-21T23:08:57.6254753Z"
+      },
+      {
+        "NewName": "Options/OptionsMenu (Container).MasterVolumeContainer1",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 5,
+        "TimestampUtc": "2025-08-21T23:08:57.672475Z"
+      },
+      {
+        "NewName": "Options/OptionsMenu (Container).SongVolumeContainer",
+        "OldName": "Options/OptionsMenu (Container).MasterVolumeContainer1",
+        "ElementType": "Components",
+        "EventType": 7,
+        "TimestampUtc": "2025-08-21T23:09:09.8353951Z"
+      },
+      {
+        "NewName": "Options/OptionsMenu (Container).SongVolumeSlider",
+        "OldName": "Options/OptionsMenu (Container).MasterVolumeSlider1",
+        "ElementType": "Components",
+        "EventType": 7,
+        "TimestampUtc": "2025-08-21T23:09:16.8403491Z"
+      },
+      {
+        "NewName": "Options/OptionsMenu (Container).SongVolumeSliderLabel",
+        "OldName": "Options/OptionsMenu (Container).MasterVolumeSliderLabel1",
+        "ElementType": "Components",
+        "EventType": 7,
+        "TimestampUtc": "2025-08-21T23:09:23.0393084Z"
+      },
+      {
+        "NewName": "Options/OptionsMenu (Container).MasterVolumeSlider1",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 5,
+        "TimestampUtc": "2025-08-21T23:10:56.0356968Z"
+      },
+      {
+        "NewName": "Options/OptionsMenu (Container).MasterVolumeSliderLabel1",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 5,
+        "TimestampUtc": "2025-08-21T23:10:56.0876965Z"
+      },
+      {
+        "NewName": "Options/OptionsMenu (Container).MasterVolumeContainer1",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 5,
+        "TimestampUtc": "2025-08-21T23:10:56.1376961Z"
+      },
+      {
+        "NewName": "Options/OptionsMenu (Container).SoundEffectsVolumeContainer",
+        "OldName": "Options/OptionsMenu (Container).MasterVolumeContainer1",
+        "ElementType": "Components",
+        "EventType": 7,
+        "TimestampUtc": "2025-08-21T23:11:36.2564319Z"
+      },
+      {
+        "NewName": "Options/OptionsMenu (Container).SoundEffectsVolumeSlider",
+        "OldName": "Options/OptionsMenu (Container).MasterVolumeSlider1",
+        "ElementType": "Components",
+        "EventType": 7,
+        "TimestampUtc": "2025-08-21T23:11:46.8933619Z"
+      },
+      {
+        "NewName": "Options/OptionsMenu (Container).SoundEffectsVolumeSliderLabel",
+        "OldName": "Options/OptionsMenu (Container).MasterVolumeSliderLabel1",
+        "ElementType": "Components",
+        "EventType": 7,
+        "TimestampUtc": "2025-08-21T23:12:01.7972636Z"
+      },
+      {
+        "NewName": "MainMenu.LabelInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2025-08-22T03:41:37.4600837Z"
+      },
+      {
+        "NewName": "Test",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 0,
+        "TimestampUtc": "2025-08-22T03:42:33.7588547Z"
+      },
+      {
+        "NewName": "Test.LabelInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2025-08-22T03:42:38.3878358Z"
+      },
+      {
+        "NewName": "TestScreen",
+        "OldName": "Test",
+        "ElementType": "Screens",
+        "EventType": 2,
+        "TimestampUtc": "2025-08-22T03:44:22.6524039Z"
+      }
+    ]
+  }
+}
